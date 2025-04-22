@@ -1,4 +1,5 @@
 # RVAF 🚗 Roadside Vehicle Assistance Finder
+A full-stack web application that allows users to raise vehicle breakdown requests and get real-time help from nearby service providers.
 
 RVAF is a full-stack web application designed to help users request real-time roadside assistance and connect with service providers nearby. The system is built with **React.js**, **Firebase (Auth + Firestore)**, **Leaflet.js** for maps, and **EmailJS** for email notifications.
 
@@ -32,3 +33,4 @@ RVAF is a full-stack web application designed to help users request real-time ro
   - About Us, Our Services, Privacy Policy, FAQ – all styled and accessible in the footer
 
 ---
+
