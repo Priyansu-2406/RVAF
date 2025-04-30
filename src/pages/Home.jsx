@@ -6,7 +6,7 @@ function Home() {
       <div style={overlayStyle}>
         <h1 style={titleStyle}>Welcome to RVAF</h1>
         <p style={subtitleStyle}>
-          On-Road Vehicle Assistance at Your Fingertips 🚗🛠️
+          On-Road Vehicle Assistance at Your Fingertips Ready... 🚗🛠️
         </p>
       </div>
     </div>
